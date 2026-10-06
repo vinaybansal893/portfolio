@@ -3,7 +3,7 @@
 > **B.Tech Student | AI & Technology Enthusiast**  
 > JECRC University, Jaipur, India  
 > Email: [vinaybansal893@gmail.com](mailto:vinaybansal893@gmail.com)  
-> LinkedIn: [linkedin.com/in/vinay-bansal](https://www.linkedin.com/in/vinay-bansal)  
+> LinkedIn: [linkedin.com/in/vinay-bansal](https://www.linkedin.com/in/vinay-bansal-8b49782a3)  
 > GitHub: [github.com/vinaybansal893](https://github.com/vinaybansal893)
 
 ---
