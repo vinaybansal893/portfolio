@@ -10,7 +10,7 @@ export const personalInfo = {
   college: "JECRC University",
   location: "Jaipur, India",
   email: "vinaybansal893@gmail.com",
-  linkedin: "https://www.linkedin.com/in/vinay-bansal",
+  linkedin: "https://www.linkedin.com/in/vinay-bansal-8b49782a3",
   github: "https://github.com/vinaybansal893",
   academicYear: "First Year B.Tech CSE",
 };
